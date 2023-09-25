@@ -1,0 +1,8 @@
+{
+  "name": "Scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "cd71d5d5"
+}
